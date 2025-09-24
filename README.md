@@ -43,7 +43,7 @@
 ---
 
 ## 🚀 使用方法
-1. 前往 [下载直链](https://github.com/OOOOOO010110/DesktopPet/releases/latest) 获取最新版本  
+1. 前往 [Releases](https://github.com/OOOOOO010110/DesktopPet/releases/latest) 获取最新版本  
 2. 解压缩后运行可执行文件（.exe）
 3. 你的桌面上就会出现一只 **猫咪助手** 🐱  
 4. 点击猫咪 → 打开对话框，就能和它互动啦！  
