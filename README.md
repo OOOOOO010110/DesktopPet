@@ -2,7 +2,8 @@
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-blue?logo=unity)
 ![AI](https://img.shields.io/badge/AI-DeepSeek-orange)
-![Status](https://img.shields.io/badge/Release-Build-green)
+![Status](https://img.shields.io/badge/Type-Build_Release-green)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
 
 ## 🌟 项目简介
 这是一个从 **《药膳小筑》** 衍生出的 **桌宠应用**。  
